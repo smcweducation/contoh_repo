@@ -2,4 +2,4 @@ Guten Morgen
 Nama Saya Citra
 Ich bin Citra
 
-Guten Tag
+Selamat Siang
